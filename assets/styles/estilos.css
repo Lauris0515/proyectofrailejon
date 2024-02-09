@@ -10,3 +10,34 @@ a{
 .fondomenu3{
     background-color:lightgreen;
 }
+
+.fuente{
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 25px; 
+    color: blueviolet;  
+}
+.fuente2{
+        font-family: "Single Day", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+        color: darksalmon;   
+}
+.fuente3{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-size: 25px;
+  color: deeppink;
+ 
+
+}
+.fuente4{
+        font-family: "Shadows Into Light", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+        color: dodgerblue;
+        
+}
